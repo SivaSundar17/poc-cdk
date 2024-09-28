@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/cfw-eaa_s-poc.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/cfw-eaas-poc.ts",
   "watch": {
     "include": [
       "**"

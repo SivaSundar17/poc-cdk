@@ -1,0 +1,6 @@
+{
+    "instanceType": "t2.micro",
+    "machineImage": "WINDOWS_SERVER_2022_CORE_BASE",
+    "region": "ap-south-1",
+    "amiId": "ami-042a23f2cade830d4"
+}

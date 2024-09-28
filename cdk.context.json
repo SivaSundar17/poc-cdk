@@ -1,0 +1,9 @@
+{
+  "availability-zones:account=549194649735:region=ap-south-1": [
+    "ap-south-1a",
+    "ap-south-1b",
+    "ap-south-1c"
+  ],
+  "ssm:account=549194649735:parameterName=/cfwParameterStore/cfw-instances/small-windows/ami_id:region=ap-south-1": "ami-053284fc22a2c3f82",
+  "ssm:account=549194649735:parameterName=/cfwParameterStore/cfw-instances/small-windows:region=ap-south-1": "{\"primary_key\":{\"S\":\"cfw-instances\"},\"secondary_key\":{\"S\":\"small-windows\"},\"ami_id\":{\"S\":\"ami-053284fc22a2c3f82\"},\"instance_type\":{\"S\":\"t2.micro\"},\"machine_image\":{\"S\":\"Microsoft Windows Server 2022 Base\"}}"
+}
